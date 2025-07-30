@@ -57,6 +57,6 @@ project/
 ## Contributors
 - Pranjal Mehra
 - Piyush Kumar Singh 
-
+- Hiralal kumar
 ---
 Feel free to open issues or submit pull requests to contribute!
